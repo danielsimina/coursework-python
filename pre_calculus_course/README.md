@@ -13,7 +13,7 @@ This repository module contains interactive Python scripts, mathematical visuali
   * Modeling exponential growth/decay and logarithmic scale transformations.
 * **Chapter 4: Trigonometric Functions (`trigonometry.py`)**
   * Interactive unit circle calculations and multi-panel wave plots for $\sin(x)$, $\cos(x)$, $\tan(x)$, and $\cot(x)$ with asymptote masking.
-* **Chapter 4.8: Applications of Trigonometric Functions (`ch4_8_applications_trig.py`)**
+* **Chapter 4.8: Applications of Trigonometric Functions (`sec4_8_applications_trig.py`)**
     * Exploring real-world applications of trigonometric functions, including modeling periodic phenomena and solving practical problems.
 * **Chapter 5: Analytic Trigonometry (`sec5_analytic_trigonometry.py`)**
   * Exploring trigonometric identities, solving equations, and applying theorems in a computational context.
