@@ -7,7 +7,7 @@ This repository module contains interactive Python scripts, mathematical visuali
 
 * **Chapter 1: Functions & Graphs (`ch1_functions_graphs.py`)**
   * Graphing functional behavior, evaluating domain/range, and visualizing function transformations.
-* **Chapter 2: Polynomial & Rational Functions (`ch2_polynomial_rational.py`)**
+* **Chapter 2: Polynomial & Rational Functions (`sec2_polynomial_rational.py`)**
   * Analyzing polynomial zero multiplicities, end behavior, and horizontal/vertical asymptotes.
 * **Chapter 3: Exponential & Logarithmic Functions (`ch3_exponential_logarithmic.py`)**
   * Modeling exponential growth/decay and logarithmic scale transformations.
