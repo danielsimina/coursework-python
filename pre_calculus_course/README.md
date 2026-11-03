@@ -5,7 +5,7 @@ This repository module contains interactive Python scripts, mathematical visuali
 
 ## 🗂 Chapter Breakdowns & Python Tools
 
-* **Chapter 1: Functions & Graphs (`ch1_functions_graphs.py`)**
+* **Chapter 1: Functions & Graphs (`sec1_functions_graphs.py`)**
   * Graphing functional behavior, evaluating domain/range, and visualizing function transformations.
 * **Chapter 2: Polynomial & Rational Functions (`sec2_polynomial_rational.py`)**
   * Analyzing polynomial zero multiplicities, end behavior, and horizontal/vertical asymptotes.
